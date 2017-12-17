@@ -1,7 +1,7 @@
 {
-  "name": "saen-vue-template",
+  "name": "saen-podcast-page",
   "version": "0.0.1",
-  "description": "Template to spin up Vue applications with TypeScript",
+  "description": "Page to host the San Antonio Express-News' podcasts",
   "main": "index.js",
   "scripts": {
     "test": "test",
