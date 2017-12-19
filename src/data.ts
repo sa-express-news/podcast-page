@@ -9,7 +9,7 @@ const podcasts: Podcast[] = [
         links: [
             {
                 url: 'https://itunes.apple.com/us/podcast/express-briefing/id1296731191?mt=2',
-                name: 'iTunes'
+                name: 'Apple Podcasts'
             },
             {
                 url: 'https://www.stitcher.com/podcast/san-antonio-expressnews/express-briefing',
@@ -24,7 +24,7 @@ const podcasts: Podcast[] = [
         links: [
             {
                 url: 'https://itunes.apple.com/us/podcast/en-depth/id1325721282?mt=2',
-                name: 'iTunes'
+                name: 'Apple Podcasts'
             },
             {
                 url: 'https://www.stitcher.com/s?fid=161142',
