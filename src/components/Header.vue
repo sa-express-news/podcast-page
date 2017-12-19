@@ -1,7 +1,7 @@
 <template>
   <div class="podcast-header">
       <h1>Express-News Podcasts</h1>
-      <p>We’re transforming written articles into audio read aloud that you can listen to anytime, anywhere. Listen on the go, during your daily commute, or at the gym! Scroll down for links to subscribe using your favorite podcast application.</p>
+      <p>Stay up to date on local news and investigations with podcasts from the Express-News. We break down the most important stories with insight from reporters so you can make sense of the city you call home.</p>
   </div>
 </template>
 
