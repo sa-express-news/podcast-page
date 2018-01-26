@@ -3,7 +3,7 @@ import { generateWCMPhotoSize } from './util';
 
 const podcasts: Podcast[] = [
     {
-        image: 'http://ww4.hdnux.com/photos/70/11/47/14719431/5/rawImage.jpg',
+        image: 'https://s.hdnux.com/photos/71/01/11/14946933/4/rawImage.jpg',
         title: 'Express Briefing',
         description: 'The daily briefing from the San Antonio Express-News.',
         links: [
@@ -18,8 +18,8 @@ const podcasts: Podcast[] = [
         ]
     },
     {
-        image: 'http://ww4.hdnux.com/photos/70/11/47/14719435/4/rawImage.jpg',
-        title: 'EN Depth',
+        image: 'https://s.hdnux.com/photos/71/01/11/14946936/4/rawImage.jpg',
+        title: 'EN-Depth',
         description: 'A weekly interview podcast from the San Antonio Express-News.',
         links: [
             {
@@ -31,7 +31,22 @@ const podcasts: Podcast[] = [
                 name: 'Stitcher'
             }
         ]
-    }
+    },
+    // {
+    //     image: 'https://s.hdnux.com/photos/71/01/11/14946938/3/rawImage.jpg',
+    //     title: 'The Docket',
+    //     description: 'Write me',
+    //     links: [
+    //         {
+    //             url: 'Paste link',
+    //             name: 'Apple Podcasts'
+    //         },
+    //         {
+    //             url: 'Paste link',
+    //             name: 'Stitcher'
+    //         }
+    //     ]
+    // }
 ];
 
 const podcastImageSet = podcasts.map((podcast) => {
