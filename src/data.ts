@@ -32,21 +32,17 @@ const podcasts: Podcast[] = [
             }
         ]
     },
-    // {
-    //     image: 'https://s.hdnux.com/photos/71/01/11/14946938/3/rawImage.jpg',
-    //     title: 'The Docket',
-    //     description: 'Write me',
-    //     links: [
-    //         {
-    //             url: 'Paste link',
-    //             name: 'Apple Podcasts'
-    //         },
-    //         {
-    //             url: 'Paste link',
-    //             name: 'Stitcher'
-    //         }
-    //     ]
-    // }
+    {
+        image: 'https://s.hdnux.com/photos/71/01/11/14946938/3/rawImage.jpg',
+        title: 'The Docket',
+        description: 'Follow courts and crime reporter Elizabeth Zavala as she breaks down the trials in the Bexar County courthouse.',
+        links: [
+            {
+                url: 'https://itunes.apple.com/us/podcast/the-docket/id1341064778?mt=2',
+                name: 'Apple Podcasts'
+            },
+        ]
+    }
 ];
 
 const podcastImageSet = podcasts.map((podcast) => {
